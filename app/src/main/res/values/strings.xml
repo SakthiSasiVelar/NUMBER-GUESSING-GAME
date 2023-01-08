@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Number Game</string>
+    <string name="string1">welcome</string>
+    <string name="string2">NUMBER GUESSING GAME</string>
+    <string name="string3">SELECT THE DIGITS OF NUMBER YOU WANT TO GUESS :</string>
+    <string name="string4">TWO DIGITS</string>
+    <string name="string5">THREE DIGITS</string>
+    <string name="string6">FOUR DIGITS</string>
+    <string name="string7">START</string>
+    <string name="string8">textview</string>
+    <string name="string9">textview</string>
+    <string name="string10">textview</string>
+    <string name="string11">CONFIRM</string>
+    <string name="string12">Enter your guess</string>
+</resources>
